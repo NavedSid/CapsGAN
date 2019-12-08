@@ -10,8 +10,7 @@ The model was trained on 56k training images for 160 epochs (1 epoch is 1 pass o
 Evaluation is based on the FID score. For baseline model DCGAN was used. A DCGAN trained for the same time provides FID score of 72.34 
 while the CapsGAN provides a much better FID score at 31.25. The FID score was calculated on 50k test images.
 
-Models: [DCGAN discriminator](https://drive.google.com/open?id=1zKxktQDe8O-I5JjrpmajsWWaZQAvQlBA), [DCGAN generator](https://drive.google.com/open?id=11TgL81sAB8tq3qKt_hRsxSMYZ7N3pyR0), [CapsGAN discriminator](https://drive.google.com/open?id=1xdqioLy1HyTVisT-WkAwMMdl-uGsdJu7) and [CapsGAN generator](https://drive.google.com/open?id=10T0bbjRhpVppr4kiMn2HY8lh3Le2nShp)
-
+Models: [DCGAN discriminator](https://drive.google.com/file/d/1zKxktQDe8O-I5JjrpmajsWWaZQAvQlBA/view?usp=sharing), [DCGAN generator](https://drive.google.com/file/d/11TgL81sAB8tq3qKt_hRsxSMYZ7N3pyR0/view?usp=sharing), [CapsGAN discriminator](https://drive.google.com/file/d/1xdqioLy1HyTVisT-WkAwMMdl-uGsdJu7/view?usp=sharing) and [CapsGAN generator](https://drive.google.com/file/d/10T0bbjRhpVppr4kiMn2HY8lh3Le2nShp/view?usp=sharing)
 # Result
 DCGAN:
 ![](https://github.com/NavedSid/CapsGAN/blob/master/DCGAN/DCGANResult.png "DCGAN Result")
